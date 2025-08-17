@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-15+-336791" alt="PostgreSQL">
 </div>
 
----
-
-## 💡 Sobre Nós
-
 O **FinBoost+** é um sistema fullstack para **gerenciamento de finanças pessoais e compartilhadas**.  
 Permite o registro e divisão de despesas, acompanhamento de saldos individuais, geração de relatórios e sugestões inteligentes com uso de **IA**.
 
